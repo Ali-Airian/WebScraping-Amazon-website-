@@ -17,7 +17,7 @@ pip install beautifulsoup4 requests pandas numpy
 **Usage**
 Clone this repository to your local machine:
 
-1. git clone https://github.com/yourusername/amazon-product-scraper.git
+1. git clone https://github.com/Ali-Airian/amazon-product-scraper.git
 Navigate to the project directory:
 
 2. cd amazon-product-scraper
